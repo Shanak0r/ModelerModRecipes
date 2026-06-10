@@ -24,5 +24,12 @@
 	"SemVersion": "0.1.0",
 	"GameVersion": ">=491125",
 	"RequiredOnRemote": false,
-	"BuiltInInitialFeatureState": "Active"
+	"BuiltInInitialFeatureState": "Active",
+	"Modules": [
+		{
+			"Name": "ModelerModRecipes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
