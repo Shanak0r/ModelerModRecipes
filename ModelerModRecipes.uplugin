@@ -1,15 +1,15 @@
 {
 	"FileVersion": 3,
-	"Version": 0,
-	"VersionName": "0.1.0",
+	"Version": 1,
+	"VersionName": "1.0.0",
 	"FriendlyName": "ModelerModRecipes",
 	"Description": "Gets recipe data for Satisfactory Modeler",
 	"Category": "Modding",
 	"CreatedBy": "Shanakor",
-	"CreatedByURL": "",
+	"CreatedByURL": "https://github.com/Shanak0r/ModelerModRecipes",
 	"DocsURL": "",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://github.com/Shanak0r/ModelerModRecipes/issues",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
@@ -21,7 +21,7 @@
 			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "0.1.0",
+	"SemVersion": "1.0.0",
 	"GameVersion": ">=491125",
 	"RequiredOnRemote": false,
 	"BuiltInInitialFeatureState": "Active",
