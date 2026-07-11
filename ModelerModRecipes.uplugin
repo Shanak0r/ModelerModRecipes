@@ -19,6 +19,12 @@
 			"Name": "SML",
 			"Enabled": true,
 			"SemVersion": "^3.12.0"
+		},
+		{
+			"Name": "RefinedRDApi",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "1.0.7"
 		}
 	],
 	"SemVersion": "1.0.3",
