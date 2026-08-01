@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
+	"VersionName": "1.1.2",
 	"FriendlyName": "ModelerModRecipes",
 	"Description": "Gets recipe data for Satisfactory Modeler",
 	"Category": "Modding",
@@ -24,10 +24,10 @@
 			"Name": "RefinedRDApi",
 			"Enabled": true,
 			"Optional": true,
-			"SemVersion": "2026.3.2"
+			"SemVersion": "^2026.3.2"
 		}
 	],
-	"SemVersion": "1.1.1",
+	"SemVersion": "1.1.2",
 	"GameVersion": ">=491125",
 	"RequiredOnRemote": false,
 	"BuiltInInitialFeatureState": "Active",
